@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audio</title>
+</head>
+<body>
+
+/*Audio*/
+
+<audio  autoplay controls loop muted >
+
+    <source src="mp3/musica.mp3">
+
+</audio>
+
+
+/*Video*/
+
+<video width="450" controls muted poster="video/byron.jpg">
+
+    <source src="video/carolina.mp4">
+
+</video>
+
+</body>
+</html>
